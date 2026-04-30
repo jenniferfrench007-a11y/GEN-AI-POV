@@ -61,3 +61,11 @@ The app is currently in beta.
 *This is a living document. It will be updated as the methodology evolves, new experiments run, and new products ship.*
 
 *April 2026*
+
+---
+
+## License
+
+© 2026 Jennifer French. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may share this work with attribution for non-commercial purposes. No derivatives permitted.
